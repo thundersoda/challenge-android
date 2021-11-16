@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="types_title">Type(s):</string>
+    <string name="attacks_title">Attacks:</string>
+    <string name="weaknesses_title">Weakness:</string>
+    <string name="resistance_title">Resistance:</string>
+</resources>
